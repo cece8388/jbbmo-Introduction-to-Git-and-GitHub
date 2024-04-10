@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2023 XYZ, Inc._
+git revert _© 2023 XYZ, Inc._
